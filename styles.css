@@ -87,12 +87,3 @@ footer ul li a {
   color: #00ffcc;
   text-decoration: none;
 }
-#copyright {
-  background: #111; /* Fundo escuro */
-  color: #fff; /* Texto claro */
-  text-align: center; /* Centraliza o texto */
-  padding: 10px; /* Espaçamento interno */
-  font-size: 0.9rem; /* Tamanho da fonte menor */
-  margin-top: 20px; /* Espaçamento acima */
-  border-top: 1px solid #333; /* Linha superior discreta */
-}
